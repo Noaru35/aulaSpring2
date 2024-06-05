@@ -14,6 +14,10 @@
 
         <label for="name">Name:</label><br>
         <input type="text" id="tNome">
+        <label for="senha">Senha:</label><br>
+        <input type="password" id="tSenha">
+        <label for="email">Email:</label><br>
+        <input type="email" id="tEmail">
 
     </form>
 </body>
